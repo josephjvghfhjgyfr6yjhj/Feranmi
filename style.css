@@ -1,0 +1,16 @@
+body {
+    background-color: chartreuse;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(Banner.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.things {
+    min-height: 50vh;
+    width: 11;
+    font-size: medium;
+    color: darkblue;
+}
+.logo{
+    cursor: pointer;
+    width: 140;
+}
